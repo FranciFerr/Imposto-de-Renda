@@ -1,0 +1,7 @@
+﻿  Origem.c
+C:\Users\Windows\Desktop\pasta Fran curso e faculdade\Slides Linguagem de Programação C\ImpostoDeRenda\ImpostoDeRenda\Origem.c(56,39): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+C:\Users\Windows\Desktop\pasta Fran curso e faculdade\Slides Linguagem de Programação C\ImpostoDeRenda\ImpostoDeRenda\Origem.c(60,40): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+C:\Users\Windows\Desktop\pasta Fran curso e faculdade\Slides Linguagem de Programação C\ImpostoDeRenda\ImpostoDeRenda\Origem.c(64,40): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+C:\Users\Windows\Desktop\pasta Fran curso e faculdade\Slides Linguagem de Programação C\ImpostoDeRenda\ImpostoDeRenda\Origem.c(68,40): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+C:\Users\Windows\Desktop\pasta Fran curso e faculdade\Slides Linguagem de Programação C\ImpostoDeRenda\ImpostoDeRenda\Origem.c(80,7): warning C4013: 'getch' indefinido; assumindo extern retornando int
+  ImpostoDeRenda.vcxproj -> C:\Users\Windows\Desktop\pasta Fran curso e faculdade\Slides Linguagem de Programação C\ImpostoDeRenda\Debug\ImpostoDeRenda.exe
